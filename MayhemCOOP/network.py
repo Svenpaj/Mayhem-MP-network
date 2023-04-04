@@ -1,5 +1,5 @@
 # SSE system for direct messaging
-# [sends messages via sse.nodehill.com]
+# [sends messages via [sse.[your_server]]
 
 # Usage:
 # from network_brython import connect, send, close
