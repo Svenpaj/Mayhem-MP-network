@@ -46,7 +46,7 @@ user_name = None
 token = None
 message_handler = None
 last_message_time = 0
-serverURL = 'https://sse.nodehill.com'
+serverURL = '[your_server]'
 
 def on_token(e):
 	global token
